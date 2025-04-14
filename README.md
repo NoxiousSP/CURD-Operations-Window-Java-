@@ -13,7 +13,9 @@ repository: https://repo1.maven.org/maven2/org/xerial/sqlite-jdbc/3.49.1.0/
 4. Open command prompt by searching for “cmd” from the Start menu in windows.
 5. Execute following queries to create “javaapp.db” database. “javaapp.db” file will be created in
 the “Apps” folder as follows.
-![alt text](image.png)
+![alt text](images/image.png)
 6. Now, press “Ctrl + Z” and then “Enter” to exit from sqlite prompt.
-7. To run the code follow the below image 
-![alt text](image-1.png)
+7. Using the above queries make two such tables (which will be used in our MODULE)
+![alt text](images/image-2.png)
+8. To run the code follow the below image 
+![alt text](images/image-1.png)
