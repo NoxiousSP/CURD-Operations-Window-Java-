@@ -15,3 +15,5 @@ repository: https://repo1.maven.org/maven2/org/xerial/sqlite-jdbc/3.49.1.0/
 the “Apps” folder as follows.
 ![alt text](image.png)
 6. Now, press “Ctrl + Z” and then “Enter” to exit from sqlite prompt.
+7. To run the code follow the below image 
+![alt text](image-1.png)
