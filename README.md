@@ -1,4 +1,4 @@
-# CURD-Operations-Window-Java-
+# CRUD-Operations-Window-Java-
 
 Simple Java Application Development with SQLite database connectivity
 Create Apps folder on your desktop: C:\Users\SRMAP\Desktop\Apps
